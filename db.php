@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Sabc123*";
 $db = "onlineshop";
 
 // Create connection
